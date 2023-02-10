@@ -1,0 +1,440 @@
+ 
+ 
+ 
+*{
+    margin: 0;
+    padding: 0;
+}
+#text  {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: rgb(255, 255, 255);
+    background-color: #133d63;
+     
+    margin-right: 138px;
+    padding: 10px;
+    box-shadow: 5px 4px 13px 0 rgb(46 36 112 / 30%);
+
+    transition: all ease-in-out 0.5s;
+    border-radius: 5px;
+
+}
+
+#text:hover{
+    transition: all ease-in-out 0.5s;
+    background-color: rgb(194, 194, 194);
+    color: #133d63;
+
+}
+  
+.navbar>.container-fluid{
+ 
+    padding: 20px;
+     
+  
+    
+}
+
+.navbar-brand{
+    padding-left: 250px;
+    font-size: xx-large;
+    
+}
+
+ 
+  h4 {
+    font-size: 1.5rem;
+    text-align: inherit;
+    padding: 80px;
+    font-weight: 400px;
+}
+ 
+#grad {
+    background-image: linear-gradient(to right, #ed7830c7, #D98324);
+   
+  }
+
+
+#ig{
+width: 250px;
+margin-left: 306px;
+transform: rotateY(170deg);
+}
+
+span{
+    font-size: 40px;
+    font-weight: 600;
+    color: black    
+}
+
+ 
+
+.card{
+
+    width: 357px;
+    background: #971b1b;
+    height: 400px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.ip{
+    color: #000000;
+}
+
+
+.card{
+    justify-content: center;
+    background-color: #030303;
+    box-shadow: 10px 0ppx 0px 0px ;
+}
+
+.bttn {
+
+    border: none;
+    padding: 10px;
+    margin: 10px 100px;
+    /* border: 1px solid; */
+    background-image: linear-gradient(to right, #ed7830c7, #D98324);
+    border-radius: 3px;
+    transition: all ease-in-out 0.5s;
+    margin-left: 66px;
+}
+
+.bttn:hover{
+   
+    background-color:#f16e03;
+    color:  white;
+    transition: all ease-in-out 0.5s;
+}
+ 
+
+.bttn1 {
+
+    border: none;
+    padding: 10px;
+    margin: 10px 100px;
+    /* border: 1px solid; */
+   background-color:rgb(19, 64, 104);
+    border-radius: 3px;
+    transition: all ease-in-out 0.5s;
+    color: white;
+    margin-left: 79px;
+}
+
+
+.bttn1:hover{
+   
+ background-color:  white;
+    color:#133d63;
+    transition: all ease-in-out 0.5s;
+}
+
+#h5 {
+    font-size: 35px;
+    font-weight: 400;
+    text-align: center;
+}
+
+#h3 {
+    font-size: xx-large;
+    font-weight: 200;
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+
+ 
+  h1 {
+    font-size: 2.5rem;
+    font-weight: 300;
+}
+
+.card.gred {
+    background-image: linear-gradient(to right, #ed7830c7, #D98324);
+    border: none;
+    padding: 10px;
+    border-radius: 0px;
+    box-shadow: 3px 1px 8px 0px;
+
+    
+     
+}
+
+.card.gred1{
+    background-color: #fff0;
+    border: none;
+    padding: 10px;
+   
+}
+
+.card.gred2{
+    background-color: #fff0;
+    border: none;
+    padding: 10px;
+    
+}
+ 
+.col i{
+    color: white;
+}
+
+.col.sport {
+
+    text-align: center;
+  
+    padding: 30px;
+    background-color: rgb(19, 61, 99);
+    border-radius: 10px;
+    margin-right: 13px;
+    box-shadow: 0px 1px 5px 0px;
+}
+
+ .col.trophy{
+    text-align: center;
+ 
+    padding: 30px;
+    background-color: rgb(117, 55, 4);
+    border-radius: 10px;
+    box-shadow: 0px 1px 5px 0px;
+ }
+
+
+ h6 {
+    font-size: 1rem;
+    text-align: inherit;
+    margin-top: 10px;
+ }
+
+ #h6 {
+    
+    text-align: center;
+    font-weight: 300;
+}
+
+ .sp{
+    font-weight: 300;
+    font-size: 20px;
+ }
+ 
+ #hr{
+    width: 270px;
+    border: 1.5px solid #064c7a;
+}
+
+
+ 
+/* -------------------------- */
+ 
+/* form {border: 3px solid #f1f1f1;} */
+
+#fe{
+    padding-bottom: 20px;
+}
+
+.fc{
+border: #000000;
+padding: 60px;
+background-color: #133d63;
+border-radius: 5px;
+width: 420px;
+margin-left: 110px;
+box-shadow: 3px 1px 8px 0px;
+
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  color: white;
+  box-sizing: border-box;
+  background: #c4def5;
+}
+
+button {
+  background: #f16e03;
+  color: white;
+  padding: 14px 10px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+   transition: all ease-in-out 0.5s;
+  border-radius: 4px;
+  font-size: larger;
+  /* box-shadow: 5px 4px 13px 0 rgb(46 36 112 / 30%); */
+}
+ 
+ 
+ 
+
+.bnt{
+
+    
+    padding-top: 10px;
+    margin-top: 10px;
+    width: 100px;
+    border-radius: 5px;
+    
+}
+
+
+ 
+button:hover {
+ transition: all ease-in-out 0.5s;
+  background-color: rgb(194, 194, 194);
+  color: #064c7a;
+}
+
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+#hr1{
+    width: 200px;
+    border: 1.5px solid black;
+} 
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+  .cancelbtn {
+     width: 100%;
+  }
+}
+
+#log{
+    text-align: center;
+   
+    font-weight: 400;
+    color: white;
+    font-size: 25px;
+}
+
+.col-sm-6 {
+    padding: 30px;
+}
+
+ b{
+    color: white;
+     
+ }
+ label {
+    color: white;
+    margin-left: 10px;
+}
+
+.collapsible {
+    background-color: #f3f3f3;
+    color: rgb(5, 5, 5);
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+   border-bottom: 1px solid rgb(192, 192, 192);
+   border-radius: 5px;
+     
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
+  
+  .active, .collapsible:hover {
+    background-color: #ffffff;
+  }
+  
+  .content {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: #ffffff;
+  }
+
+p{
+    padding-top: 20px;
+}
+ 
+.ic{
+    align-items: center;
+}
+
+.eow{
+ text-align: end;
+ 
+}
+.eowc{
+text-align: start;
+
+}
+
+
+.botn{
+     background-color:  rgb(192, 192, 192) ;
+    border-radius: 5px;
+    box-shadow: 5px 4px 13px 0 rgb(46 36 112 / 30%);
+  
+}
+
+
+.botn:hover{
+
+    background-color: #064c7a;
+    color: white;
+
+}
+
+.botn1{
+    background-color: #064c7a;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 5px 4px 13px 0 rgb(46 36 112 / 30%);
+}
+     
+
+
+.botn1:hover{
+    background-color:rgb(194, 194, 194);
+    color: #064c7a;
+}
+.container{
+    width: 100px;
+}
+
+.sub{
+    margin-left: 100px;
+    width: 100px;
+}
+
+ #ul{
+    padding-left: 118px;
+    padding-top: 20px;
+ }
+
+ .bor{
+    border-left: 1px solid rgb(135 151 160);
+ }
